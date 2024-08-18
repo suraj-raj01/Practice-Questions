@@ -16,7 +16,7 @@
      ```
 2. Write a program print following menu to user:
    ```
-     Main Menu:
+     do_while.Q1 Menu:
      Press 1 for Addition,
      Press 2 for Subtraction,
      Press 3 for Multiplication,
@@ -26,7 +26,7 @@
    Accept user choice and based on choice perform operation by printing operation name and repeat until user enters 0.
    ```
      Ouptut
-     Main Menu:
+     do_while.Q1 Menu:
      Press 1 for Addition,
      Press 2 for Subtraction,
      Press 3 for Multiplication,
@@ -37,7 +37,7 @@
      
      Output
      Multiplication
-     Main Menu:
+     do_while.Q1 Menu:
      Press 1 for Addition,
      Press 2 for Subtraction,
      Press 3 for Multiplication,
@@ -48,7 +48,7 @@
      
      Output
      Addition
-     Main Menu:
+     do_while.Q1 Menu:
      Press 1 for Addition,
      Press 2 for Subtraction,
      Press 3 for Multiplication,
