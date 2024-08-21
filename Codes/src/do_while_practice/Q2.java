@@ -9,7 +9,7 @@
      Press 0 to exit
      ```
 */
-package do_while;
+package do_while_practice;
 import java.util.Scanner;
 
 public class Q2 {

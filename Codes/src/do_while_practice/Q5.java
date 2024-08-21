@@ -2,7 +2,7 @@
 5. Write a program to accept number from user, until user press 0 to exit. Print the count of all the entered even
    number exclude 0.
 */
-package do_while;
+package do_while_practice;
 
 import java.util.Scanner;
 

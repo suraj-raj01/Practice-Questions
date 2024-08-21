@@ -14,7 +14,7 @@
         Output is printed on screen, not get the user input, based on user input 1, we will continue to print again. When user input is 0, we stops repeating.
      ```
 */
-package do_while;
+package do_while_practice;
 import java.util.Scanner;
 
 public class Q1 {

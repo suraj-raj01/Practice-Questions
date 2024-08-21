@@ -1,7 +1,7 @@
 /*
 4. Write a program to accept number from user, until user press 0 to exit. Print the average of all the entered number.
 */
-package do_while;
+package do_while_practice;
 import java.util.Scanner;
 
 public class Q4 {
