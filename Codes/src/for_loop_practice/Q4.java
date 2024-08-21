@@ -1,4 +1,4 @@
-package loop_practice;/*
+package for_loop_practice;/*
 4. Write a program to calculate sum of all the values entered also count the number of values entered by user, stop when user enter 0. Print the sum of the values and count.
 */
 

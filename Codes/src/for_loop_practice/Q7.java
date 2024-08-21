@@ -1,4 +1,4 @@
-package loop_practice;/*
+package for_loop_practice;/*
 7. Write a program which accept a magic number form the user, print winner and stop if user entered magic number. In this particular question magic number is the question number. 
 */
 

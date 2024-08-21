@@ -1,4 +1,4 @@
-package loop_practice;/*
+package for_loop_practice;/*
 1. Write a program to sum all the entered value until user enter 0 to stop.
 */
 

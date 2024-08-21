@@ -1,4 +1,4 @@
-package loop_practice;/*
+package for_loop_practice;/*
 3. Write a program to print the sum of all the even values entered by user until user enter 0 to stop.
 
 */

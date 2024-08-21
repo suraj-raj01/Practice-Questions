@@ -1,4 +1,4 @@
-package loop_practice;
+package for_loop_practice;
 
 /*
 5. Write a program to print numbers starting form 1 to 20.
