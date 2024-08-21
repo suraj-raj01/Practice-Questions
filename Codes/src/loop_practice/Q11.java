@@ -1,4 +1,4 @@
-/*
+package loop_practice;/*
 11. Write a program which accepts the starting point and end point from the user and print 
     the sum and count of all the even values between the starting point and end point. 
     Starting point and end point both are inclusive.

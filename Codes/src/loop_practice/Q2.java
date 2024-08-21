@@ -1,4 +1,4 @@
-/*
+package loop_practice;/*
 2. Write a program to check all the values entered by user, if the entered value is even print, 
 if the entered value is odd print odd, if the entered value is 0 stop.
 */

@@ -1,4 +1,4 @@
-/*
+package loop_practice;/*
 8. Write a program which accept a magic number form the user, print winner and stop if user 
 entered magic number otherwise print try again. Also stop when user enter 0. In this 
 particular question magic number is the question number. 

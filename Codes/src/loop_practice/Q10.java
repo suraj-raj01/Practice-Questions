@@ -1,4 +1,4 @@
-/*
+package loop_practice;/*
 10. Write a program which accepts the starting point and end point from the user and print the sum of all the values between the starting point and end point. Starting point is inclusive and end point is exclusive.
     Sample run
     enter the starting point - 10

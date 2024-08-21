@@ -1,3 +1,5 @@
+package loop_practice;
+
 /*
 6. Write a program to print all the odd number form 1 to 20. Hint check i % 2 != 0 and print i if it is odd.
 */
